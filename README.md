@@ -8,10 +8,10 @@
 GustavoBrDev/GustavoBrDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+[C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
+[CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+[HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+[Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+[Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
 --->
