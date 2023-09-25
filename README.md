@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gustavo and I'am from Brazil
 - 👀 I’m interested in learning more in general and especially about game development and artificial intelligence/robotics
 - 🌱 I’m currently learning Python, Java, HTML and CSS
-- 💞️ I’m looking to collaborate on a project
+- 💞️ I’m trying to do a Python chat bot
 - 📫 How to reach me: send a email to gustavo.s041@aluno.ifsc.edu.br
 
 <!---
