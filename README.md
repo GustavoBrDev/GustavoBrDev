@@ -11,14 +11,22 @@
 
 <hr>
 
-<h1>Sobre mim!</h1>
+<h1>Sobre mim</h1>
 
 <p>Olá meus caros Padawanns</p>
 
 <p>Me chamo Gustavo Stinghen e tenho 17 anos. Moro no Brazil desde de meu nascimento</p>
 <p>Desenvolvo aplicações em Python, Java, C, C#, C++ e Kotlin</p>
 
-<p>Atualmente tenho conhecimento em Inglês, Espanhol, Português e Latim.</p>
+<h1>Formação</h1>
+
+<p>Cursei o Curso Concaminante de Desenvolvimento de Sistemas no Instituto federal de Santa Catariana (IFSC), o melhor instituto federal do Brasil</p>
+<p>Cursei um curso de Inofrmática Básica e Avançada na Escola Mérito</p>
+<p>Durante a pandemia, cursei o Mundo Python 1 da Plataforma Curso em Vídeo e pretendo terminar os 2 mundos remanescentes</p>
+
+<h1>Experiência</h1>
+
+<h1>Canais</h1>
 
 <hr>
 
