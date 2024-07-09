@@ -3,8 +3,8 @@
 
 
 <div style="display:flex;flex-direction:row;justify-content:center;">
-    <img height="45%"  src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" alt="streak stats" style="margin: 0" />
-    <img height="45%"  src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br" alt="readme stats" style="margin: 0" /> 
+    <img height="35%"  src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" alt="streak stats" style="margin: 0" />
+    <img height="35%"  src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br" alt="readme stats" style="margin: 0" /> 
 </div>
 
 <!---
