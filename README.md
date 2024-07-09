@@ -2,10 +2,26 @@
 
 <h1>About me</h1>
 
-<p>Hello There! </p>
+<p>Hello There!</p>
 
 <p>My name is Gustavo Stinghen and I have 17 years old. I live in Brazil since my born </p>
-<p>I develop with Python, Java, C, C#, C++, Kotlin and Web Scrambling</p>
+<p>I develop with Python, Java, C, C#, C++ and Kotlin</p>
+
+<hr>
+
+<h1>Sobre mim!</h1>
+
+<p>Olá meus caros Padawanns</p>
+
+<p>Me chamo Gustavo Stinghen e tenho 17 anos. Moro no Brazil desde de meu nascimento</p>
+<p>Desenvolvo aplicações em Python, Java, C, C#, C++ e Kotlin</p>
+
+<p>Atualmente tenho conhecimento em Inglês, Espanhol, Português e Latim.</p>
+
+<div align="center"> 
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" />
+<img height=200 src= "https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br"/>
+</div>
 
 <div style="display:flex;flex-direction:row;justify-content:center;">
     <img height="140"  src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" alt="streak stats" style="margin: 0" />
