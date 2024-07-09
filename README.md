@@ -1,10 +1,20 @@
 ![alt text](https://blog.codeweek.eu/wp-content/uploads/2023/05/May-the-Code-be-with-you-image-Star-Wars-Day-Code-Week.jpg)
 
+<h1>About me</h1>
 
+<p>Hello There! </p>
+
+<p>My name is Gustavo Stinghen and I have 17 years old. I live in Brazil since my born </p>
+<p>I develop with Python, Java, C, C#, C++, Kotlin and Web Scrambling</p>
 
 <div style="display:flex;flex-direction:row;justify-content:center;">
     <img height="140"  src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" alt="streak stats" style="margin: 0" />
     <img height="140"  src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br" alt="readme stats" style="margin: 0" /> 
+</div>
+
+<div style="display:flex;flex-direction:row;justify-content:center;">
+    <img height="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie" alt="streak stats" style="margin: 0" />
+    <img height="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie&locale=pt-br" alt="readme stats" style="margin: 0" /> 
 </div>
 
 <!---
