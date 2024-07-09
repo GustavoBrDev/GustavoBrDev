@@ -15,7 +15,7 @@
 
 <p>Olá meus caros Padawanns</p>
 
-<p>Me chamo Gustavo Stinghen e tenho 17 anos. Moro no Brazil desde de meu nascimento</p>
+<p>Me chamo Gustavo Stinghen e tenho 17 anos. Moro no Brasil desde de meu nascimento</p>
 <p>Desenvolvo aplicações em Python, Java, C, C#, C++ e Kotlin</p>
 
 <h1>Formação</h1>
