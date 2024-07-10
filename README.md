@@ -1,4 +1,32 @@
 ![alt text](https://blog.codeweek.eu/wp-content/uploads/2023/05/May-the-Code-be-with-you-image-Star-Wars-Day-Code-Week.jpg)
+![alt text](https://github.com/GustavoBrDev/GustavoBrDev/blob/main/Github.jpg)
+
+
+
+
+<hr>
+
+<div align="center"> 
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" />
+<img width=400 src= "https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br"/>
+<br>
+<img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie" alt="streak stats" style="margin: 0" />
+<img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie&locale=pt-br" alt="readme stats" style="margin: 0" /> 
+</div>
+
+
+
+<div style="display:flex;flex-direction:row;justify-content:center;">
+    
+</div>
+
+<!---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie&locale=pt-br)
 
 <hr>
 
@@ -27,30 +55,6 @@
 <h1>Experiência</h1>
 
 <h1>Canais</h1>
-
-<hr>
-
-<div align="left"> 
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" />
-<img width=400 src= "https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br"/>
-<br>
-<img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie" alt="streak stats" style="margin: 0" />
-<img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie&locale=pt-br" alt="readme stats" style="margin: 0" /> 
-</div>
-
-
-
-<div style="display:flex;flex-direction:row;justify-content:center;">
-    
-</div>
-
-<!---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie&locale=pt-br)
 
 
 - 👋 Hi, I’m Gustavo and I'am from Brazil
