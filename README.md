@@ -3,10 +3,7 @@
 
 
 
-
-<hr>
-
-<div align="center"> 
+<div align="center" > 
 <img width=400 src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" />
 <img width=400 src= "https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br"/>
 <br>
@@ -16,11 +13,22 @@
 
 
 
+
+
+
+
+<!---
+
+<h1>Idiomas / Languages</h1>
+
+<div align="center" >
+    <img width="50" height="50" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
+    <img width="50" height="50" src="https://th.bing.com/th/id/OIP.X5uadRMgAzVxDFEPl87-vQHaEo?w=768&h=480&rs=1&pid=ImgDetMain">
+</div>
+
 <div style="display:flex;flex-direction:row;justify-content:center;">
     
 </div>
-
-<!---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br)
