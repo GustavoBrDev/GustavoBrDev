@@ -11,6 +11,12 @@
 <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie&locale=pt-br" alt="readme stats" style="margin: 0" /> 
 </div>
 
+<br>
+<hr>
+<br>
+
+# More Informations | Mais Informações
+<br>
 
 ## 👨‍💻 Backend
 
@@ -25,7 +31,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## ⌨ IDEs/Editors
+## ⌨ IDEs
 
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -37,7 +43,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🎓 Education
+## 🎓 Education | Educação
 
 <a href="https://pt.duolingo.com/profile/GustavoPlat_">![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
 <a href="https://www.cursoemvideo.com/"><img height=29 width=125 src="https://github.com/GustavoBrDev/GustavoBrDev/blob/main/cursoEmVideo.png" /></a>
