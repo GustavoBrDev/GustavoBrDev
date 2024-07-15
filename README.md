@@ -25,6 +25,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+## ⌨ IDEs/Editors
+
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
 ## 💾 DataBase
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,6 +41,7 @@
 <a href="https://pt.duolingo.com/profile/GustavoPlat_">![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
 <a href="https://www.cursoemvideo.com/"><img height=29 width=125 src="https://github.com/GustavoBrDev/GustavoBrDev/blob/main/cursoEmVideo.png" /></a>
 <a href="https://www.ifsc.edu.br/web/noticias/w/ifsc-e-o-melhor-instituto-federal-do-pais-pela-sexta-vez"><img height=29 width=125 src="https://github.com/GustavoBrDev/GustavoBrDev/blob/main/ifsc.png" /></a>
+<a href="https://www.escolaelisa.com.br/"><img height=29 width=125 src="https://github.com/GustavoBrDev/GustavoBrDev/blob/main/elisa.png" /></a>
 
 ## 🎨 Design
 
