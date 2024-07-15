@@ -31,8 +31,8 @@
 
 ## 🎓 Education
 
-<a href="https://pt.duolingo.com/profile/GustavoPlat">![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
-
+<a href="https://pt.duolingo.com/profile/GustavoPlat_">![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
+<a href="https://www.cursoemvideo.com/"><img height=29 width=100 src="https://github.com/GustavoBrDev/GustavoBrDev/blob/main/cursoEmVideo.png" /></a>
 ## 🎨 Design
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
