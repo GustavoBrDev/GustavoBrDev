@@ -20,11 +20,11 @@
 
 ## 👨‍💻 Backend
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=cc3300)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=cc3300)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 💻 Frontend
 
@@ -35,9 +35,9 @@
 
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 💾 DataBase
 
@@ -45,10 +45,10 @@
 
 ## 🎓 Education | Educação
 
-<a href="https://pt.duolingo.com/profile/GustavoPlat_">![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
 <a href="https://www.cursoemvideo.com/"><img height=29 width=125 src="https://github.com/GustavoBrDev/GustavoBrDev/blob/main/cursoEmVideo.png" /></a>
-<a href="https://www.ifsc.edu.br/web/noticias/w/ifsc-e-o-melhor-instituto-federal-do-pais-pela-sexta-vez"><img height=29 width=125 src="https://github.com/GustavoBrDev/GustavoBrDev/blob/main/ifsc.png" /></a>
+<a href="https://pt.duolingo.com/profile/GustavoPlat_">![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
 <a href="https://www.escolaelisa.com.br/"><img height=29 width=125 src="https://github.com/GustavoBrDev/GustavoBrDev/blob/main/elisa.png" /></a>
+<a href="https://www.ifsc.edu.br/web/noticias/w/ifsc-e-o-melhor-instituto-federal-do-pais-pela-sexta-vez"><img height=29 width=125 src="https://github.com/GustavoBrDev/GustavoBrDev/blob/main/ifsc.png" /></a>
 
 ## 🎨 Design
 
