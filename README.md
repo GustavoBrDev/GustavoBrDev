@@ -1,9 +1,22 @@
 ![alt text](https://blog.codeweek.eu/wp-content/uploads/2023/05/May-the-Code-be-with-you-image-Star-Wars-Day-Code-Week.jpg)
-![alt text](https://github.com/GustavoBrDev/GustavoBrDev/blob/main/Github.jpg)
 
+> # "Porque fazer o simples se podemos fazer melhor?"
 
+Meu nome é Gustavo Stinghen e tenho atualmente 18 anos. Trabalho como **aprendiz de Programador de Sistemas** no **Centro Weg** aonde aprendo meu ofício. Porém, possuo conhecimento que se extende ao conteúdo do curso.
 
-<div align="center" > 
+Habito desde o meu nascimento no **Brasil** porém tenho conhecimento **intermediário** em **Inglês**. Além disso, possuo interesse em conhecer o exterior.
+
+### Meus Interesses:
+> - Religião ("Totus Tuus Mariae")
+> - Segunda Guerra Mundial (WW2)
+> - Astronomia e ciência
+> - Desenvolvimento de Jogos
+> - Funcionamento de I.A
+> - Leitura
+
+# Meus Staus
+
+<div align="left" > 
 <img width=400 src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" />
 <img width=400 src= "https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark&locale=pt-br"/>
 <br>
