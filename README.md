@@ -2,7 +2,7 @@
 
 > # "Porque fazer o simples se podemos fazer melhor?"
 
-Meu nome é Gustavo Stinghen e tenho atualmente 18 anos. Trabalho como **aprendiz de Programador de Sistemas** no **Centro Weg** aonde aprendo meu ofício. Porém, possuo conhecimento que se extende ao conteúdo do curso.
+Meu nome é Gustavo Stinghen e tenho atualmente 18 anos. Trabalho como **Programador de Sistemas** na **Weg (Desenvolvimento de Máquinas e Ferramentas)** aonde realizo demandas locais solicitadas. Ao mesmo tempo, curso o **Curso Técnico em Desenvolvimento de Sistemas** no **IFSC** aonde pretendo ampliar meus ocnhecimentos.
 
 Habito desde o meu nascimento no **Brasil** porém tenho conhecimento **intermediário** em **Inglês**. Além disso, possuo interesse em conhecer o exterior.
 
