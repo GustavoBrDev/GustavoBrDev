@@ -25,10 +25,16 @@
 
 ## 📊 GitHub Status
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GustavoBrDev&show_icons=true&theme=vision-friendly-dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrDev&layout=pie" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -92,7 +98,7 @@
 
 ## 📫 Contato
 
-<p align="center">
+<p>
   <a href="mailto:gustavobr.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gustavo-stinghen"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
