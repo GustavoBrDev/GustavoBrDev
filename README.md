@@ -5,7 +5,7 @@
 
 <h1 align="center">Olá, eu sou o Gustavo Stinghen! 👋</h1>
 <p align="center">
-  <b>Programador de Sistemas na WEG | Amante de tecnologia, ciência e desafios</b>
+  <b>Programador de Sistemas | Aspirante Salvatoriano</b>
 </p>
 <p align="center">
   <em>"Porque fazer o simples se podemos fazer melhor?"</em>
