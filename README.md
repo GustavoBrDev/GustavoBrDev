@@ -15,7 +15,7 @@
 
 ## 🌱 Sobre Mim
 
-- 🧑‍💼 Trabalho como **Programador de Sistemas** na <b>WEG</b> (Desenvolvimento de Máquinas e Ferramentas).
+- 🧑‍💼 Aspirante (Seminarista) Salvatoriano
 - 🌎 Brasileiro, 19 anos, inglês e espanhol intermediário e latim básico.
 - ✈️ Interessado em conhecer o exterior e explorar novas culturas.
 - 📚 Sempre aprendendo, buscando evolução e crescimento.
