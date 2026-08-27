@@ -1,6 +1,6 @@
 <!-- Banner ou imagem de destaque -->
 <p align="center">
-  <img src="https://blog.codeweek.eu/wp-content/uploads/2023/05/May-the-Code-be-with-you-image-Star-Wars-Day-Code-Week.jpg" alt="Banner" width="80%" />
+  <img src="https://github.com/GustavoBrDev/GustavoBrDev/blob/main/Banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou o Gustavo Stinghen! 👋</h1>
